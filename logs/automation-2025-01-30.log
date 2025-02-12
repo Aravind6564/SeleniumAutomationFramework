@@ -1,0 +1,58 @@
+11:33:03.277 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********Starting TC001_AccountRegistrationTest ********
+11:33:03.370 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:33:03.807 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:33:03.808 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+11:33:04.757 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+11:33:04.806 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **********Finished TC001_AccountRegistrationTest ********
+11:33:05.870 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **********Starting TC001_AccountRegistrationTest ********
+11:33:05.948 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:33:06.681 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:33:06.682 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+11:33:07.668 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+11:33:07.695 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **********Finished TC001_AccountRegistrationTest ********
+11:46:35.360 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+11:46:35.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+11:47:21.092 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+11:47:21.278 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+11:49:02.062 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+11:49:02.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+11:49:54.664 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+11:49:54.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+11:49:57.584 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting TC001_AccountRegistrationTest ********
+11:49:57.662 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:49:58.094 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:49:58.096 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+11:49:58.991 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+11:49:59.035 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Finished TC001_AccountRegistrationTest ********
+12:42:11.219 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+12:42:11.446 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+12:42:15.881 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*******
+12:47:31.983 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+12:47:32.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+12:47:35.660 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*******
+12:48:43.579 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+12:48:43.755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+12:48:46.190 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*******
+12:51:17.852 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+12:51:18.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+12:51:20.502 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*******
+12:54:35.356 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+12:54:35.533 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+

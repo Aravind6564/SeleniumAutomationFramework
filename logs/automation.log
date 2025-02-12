@@ -1,0 +1,31 @@
+20:24:30.388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+20:24:30.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml
+
+20:24:33.997 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting TC001_AccountRegistrationTest ********
+20:24:34.084 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:24:34.732 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:24:34.733 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+20:24:35.690 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+20:24:35.721 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Finished TC001_AccountRegistrationTest ********
+20:24:38.354 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*******
+20:24:39.426 [main] INFO  testCases.TC002_LoginTest - ********Finsished TC002_LoginTest******* 
+19:42:25.393 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+19:43:49.436 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+19:44:02.755 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting TC001_AccountRegistrationTest ********
+19:44:02.838 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+19:44:03.331 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+19:44:03.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+19:44:04.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+19:44:04.424 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Finished TC001_AccountRegistrationTest ********
+19:44:06.631 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*******
+19:44:08.116 [main] INFO  testCases.TC002_LoginTest - ********Finsished TC002_LoginTest******* 
+20:03:16.307 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\aravinda.a\eclipse-workspace\SeleniumAutomationFramework\master.xml"
+20:03:20.017 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Starting TC001_AccountRegistrationTest ********
+20:03:20.100 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:03:20.748 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:03:20.750 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details
+20:03:21.715 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+20:03:21.751 [main] INFO  testCases.TC001_AccountRegistrationTest - **********Finished TC001_AccountRegistrationTest ********
+20:03:23.919 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*******
+20:03:24.946 [main] INFO  testCases.TC002_LoginTest - ********Finsished TC002_LoginTest******* 
